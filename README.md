@@ -1,7 +1,3 @@
-Based on the source code provided for your RAG (Retrieval-Augmented Generation) system, here is a README file formatted to match the style of your previous projects.
-
-***
-
 # 📚 RAG Document Q&A — Private PDF Intelligence
 
 Interact with your local documents using a Retrieval-Augmented Generation (RAG) pipeline powered by Google Gemini.
